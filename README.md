@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @honeyjims
 - 👀 I’m interested in web development program
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Analyst
+- 💞️ I’m looking for work as a professional career in the fields of data analytics, IT programming, and web development
 - 📫 How to reach me instagram.com/haniefiona
 
 <!---
